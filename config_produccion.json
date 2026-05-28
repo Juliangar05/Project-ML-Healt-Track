@@ -1,0 +1,20 @@
+{
+    "features_sofia": [
+        "PAS",
+        "PAD",
+        "Tipo_Diabetes_Tipo 2",
+        "Trigliceridos",
+        "Edad",
+        "IMC",
+        "HbA1c",
+        "Colesterol_Total",
+        "HDL",
+        "Diabetes"
+    ],
+    "umbral_clinico_calibrado": 0.4529,
+    "metricas_calidad_kfold": {
+        "sensibilidad_produccion": "90.11%",
+        "auc_roc_produccion": "95.52%",
+        "accuracy_produccion": "87.92%"
+    }
+}
